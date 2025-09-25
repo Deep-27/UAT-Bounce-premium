@@ -1,0 +1,17 @@
+{
+  "uat1": {
+    "name": "UAT Server 1",
+    "path": "./servers/uat1",
+    "port": 3001
+  },
+  "uat2": {
+    "name": "UAT Server 2",
+    "path": "./servers/uat2",
+    "port": 3002
+  },
+  "uat3": {
+    "name": "UAT Server 3",
+    "path": "./servers/uat3",
+    "port": 3003
+  }
+}
